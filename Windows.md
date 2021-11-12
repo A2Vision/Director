@@ -1,24 +1,27 @@
 # *Windows*
 
-# ARCamera Window
-Had copter style control elements (hidable/detachable)
-Each control element has Bind button 
+# Camera Window
+shows output of camera, has aperture/exposition etc controls 
 
-# HeadCamera window
+## HeadCameraWindow
 
-Shows head mounted camera output, has aperture/exposition etc controls 
+Shows head mounted camera output
+
+## FreeCamera Window
+
+Shows output of FreeCamera, also controls for its postioning in space
 
 # Command Pallete
 
-On the left hand of the  ***Wearer**** there is a **Command Pallete**. It has **CommandTextField** and **CommandTreeView** - first widget fiters second, responds on Enter. **CommandPallete** can be moved to any ***device***, such as ***laptop*** or ***tablet***.
+On the left hand of the  ***Wearer**** there is a **Command Pallete**. It has **CommandTextField** and **CommandTreeView** - first widget fiters second, responds on Enter. 
 
 **SkillCommands**, **UserCommands**, **BodyCommands**, **SpaceCommands***, **ProjectCommands**, **SequenceCommands**, **ItemCommands** are visually differentiated and can be filtered out per **Command Pallete** instance.
 
-When **Command** is selected in **Command Pallete**, **HumanActor** starts immediately execute it.
+When **Command** is selected in **Command Pallete**, its executed
 
 # Bind dialog
 
-When small **BindButton** next to the **Command** in **Command Pallete** is pressed, **BindDialog** pops out. It informs ***Wearer*** that any button or axis of any ***controller device*** connected to any of the connected computers can be used to bind on this **Command**.
+When small **BindButton** next to the **Command** in **Command Pallete** (or anywhere else in the application) is pressed, **BindDialog** pops out. It informs ***Wearer*** that any button or axis of any ***controller device*** connected to any of the connected computers can be used to bind on this **Command**.
 
 
 
