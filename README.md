@@ -15,8 +15,6 @@ Default project is empty room with **HumanActor** standing in front of the ***We
 ### [Windows](Windows.md)
  * [Sequence Timeline](https://github.com/darvin/Director/blob/main/Windows.md#sequence-timeline)
  * [Command Pallete](https://github.com/darvin/Director/blob/main/Windows.md#command-pallete)
- * [Browser](https://github.com/darvin/Director/blob/main/Windows.md#browser)
- * [Computer Screen](https://github.com/darvin/Director/blob/main/Windows.md#computer-screen-vnc)
 
 
 ### Voice interface
